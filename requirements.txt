@@ -1,0 +1,17 @@
+numpy
+scipy
+scikit-image
+matplotlib
+ipython
+jupyter
+jupyterlab
+ipykernel
+pandas
+sympy
+nose
+opencv-python
+pillow
+pytest
+ipytest
+glob3
+rawpy
